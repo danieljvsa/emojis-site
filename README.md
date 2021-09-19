@@ -29,7 +29,7 @@ $ cd codelandia-challenge-8
 
 ## 💻 Projeto
 
-O 5º desafio feito pela Codelândia, destina-se a dar o próximo passo em relação há contrução de um layout responsivo e dinâmico. Neste projecto também abordei a contrução de um web component para criação do sistema de estrelas de classificação.
+O 8º desafio feito pela Codelândia, destina-se a dar o próximo passo em relação há contrução de um layout responsivo e dinâmico. Neste projecto também abordei a contrução de um web component para criação do sistema de estrelas de classificação.
 
 Este é um projeto desenvolvido durante os dias 13 a 17 de Setembro de 2021.
 
